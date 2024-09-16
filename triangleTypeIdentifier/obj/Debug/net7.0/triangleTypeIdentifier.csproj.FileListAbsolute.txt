@@ -1,0 +1,15 @@
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\triangleTypeIdentifier\bin\Debug\net7.0\triangleTypeIdentifier.exe
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\triangleTypeIdentifier\bin\Debug\net7.0\triangleTypeIdentifier.deps.json
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\triangleTypeIdentifier\bin\Debug\net7.0\triangleTypeIdentifier.runtimeconfig.json
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\triangleTypeIdentifier\bin\Debug\net7.0\triangleTypeIdentifier.dll
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\triangleTypeIdentifier\bin\Debug\net7.0\triangleTypeIdentifier.pdb
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\triangleTypeIdentifier\obj\Debug\net7.0\triangleTypeIdentifier.csproj.AssemblyReference.cache
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\triangleTypeIdentifier\obj\Debug\net7.0\triangleTypeIdentifier.GeneratedMSBuildEditorConfig.editorconfig
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\triangleTypeIdentifier\obj\Debug\net7.0\triangleTypeIdentifier.AssemblyInfoInputs.cache
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\triangleTypeIdentifier\obj\Debug\net7.0\triangleTypeIdentifier.AssemblyInfo.cs
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\triangleTypeIdentifier\obj\Debug\net7.0\triangleTypeIdentifier.csproj.CoreCompileInputs.cache
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\triangleTypeIdentifier\obj\Debug\net7.0\triangleTypeIdentifier.dll
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\triangleTypeIdentifier\obj\Debug\net7.0\refint\triangleTypeIdentifier.dll
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\triangleTypeIdentifier\obj\Debug\net7.0\triangleTypeIdentifier.pdb
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\triangleTypeIdentifier\obj\Debug\net7.0\triangleTypeIdentifier.genruntimeconfig.cache
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\triangleTypeIdentifier\obj\Debug\net7.0\ref\triangleTypeIdentifier.dll

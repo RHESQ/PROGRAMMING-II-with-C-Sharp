@@ -1,0 +1,15 @@
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\ticketPriceCalculator\bin\Debug\net7.0\ticketPriceCalculator.exe
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\ticketPriceCalculator\bin\Debug\net7.0\ticketPriceCalculator.deps.json
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\ticketPriceCalculator\bin\Debug\net7.0\ticketPriceCalculator.runtimeconfig.json
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\ticketPriceCalculator\bin\Debug\net7.0\ticketPriceCalculator.dll
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\ticketPriceCalculator\bin\Debug\net7.0\ticketPriceCalculator.pdb
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\ticketPriceCalculator\obj\Debug\net7.0\ticketPriceCalculator.csproj.AssemblyReference.cache
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\ticketPriceCalculator\obj\Debug\net7.0\ticketPriceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\ticketPriceCalculator\obj\Debug\net7.0\ticketPriceCalculator.AssemblyInfoInputs.cache
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\ticketPriceCalculator\obj\Debug\net7.0\ticketPriceCalculator.AssemblyInfo.cs
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\ticketPriceCalculator\obj\Debug\net7.0\ticketPriceCalculator.csproj.CoreCompileInputs.cache
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\ticketPriceCalculator\obj\Debug\net7.0\ticketPriceCalculator.dll
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\ticketPriceCalculator\obj\Debug\net7.0\refint\ticketPriceCalculator.dll
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\ticketPriceCalculator\obj\Debug\net7.0\ticketPriceCalculator.pdb
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\ticketPriceCalculator\obj\Debug\net7.0\ticketPriceCalculator.genruntimeconfig.cache
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\ticketPriceCalculator\obj\Debug\net7.0\ref\ticketPriceCalculator.dll
