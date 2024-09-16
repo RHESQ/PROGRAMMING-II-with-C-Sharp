@@ -1,0 +1,11 @@
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment 7\Quizify\Quizify\bin\Debug\Quizify.exe.config
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment 7\Quizify\Quizify\bin\Debug\Quizify.exe
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment 7\Quizify\Quizify\bin\Debug\Quizify.pdb
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment 7\Quizify\Quizify\obj\Debug\Quizify.csproj.AssemblyReference.cache
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment 7\Quizify\Quizify\obj\Debug\Quizify.csproj.SuggestedBindingRedirects.cache
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment 7\Quizify\Quizify\obj\Debug\Quizify.Form1.resources
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment 7\Quizify\Quizify\obj\Debug\Quizify.Properties.Resources.resources
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment 7\Quizify\Quizify\obj\Debug\Quizify.csproj.GenerateResource.cache
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment 7\Quizify\Quizify\obj\Debug\Quizify.csproj.CoreCompileInputs.cache
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment 7\Quizify\Quizify\obj\Debug\Quizify.exe
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment 7\Quizify\Quizify\obj\Debug\Quizify.pdb

@@ -1,0 +1,12 @@
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment 7\gameStore\gameStore\bin\Debug\gameStore.exe.config
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment 7\gameStore\gameStore\bin\Debug\gameStore.exe
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment 7\gameStore\gameStore\bin\Debug\gameStore.pdb
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment 7\gameStore\gameStore\obj\Debug\gameStore.csproj.AssemblyReference.cache
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment 7\gameStore\gameStore\obj\Debug\gameStore.csproj.SuggestedBindingRedirects.cache
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment 7\gameStore\gameStore\obj\Debug\gameStore.GamesPage.resources
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment 7\gameStore\gameStore\obj\Debug\gameStore.LoginPage.resources
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment 7\gameStore\gameStore\obj\Debug\gameStore.Properties.Resources.resources
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment 7\gameStore\gameStore\obj\Debug\gameStore.csproj.GenerateResource.cache
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment 7\gameStore\gameStore\obj\Debug\gameStore.csproj.CoreCompileInputs.cache
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment 7\gameStore\gameStore\obj\Debug\gameStore.exe
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment 7\gameStore\gameStore\obj\Debug\gameStore.pdb
