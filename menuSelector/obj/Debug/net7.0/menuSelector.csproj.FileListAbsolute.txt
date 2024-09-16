@@ -1,0 +1,15 @@
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\menuSelector\bin\Debug\net7.0\menuSelector.exe
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\menuSelector\bin\Debug\net7.0\menuSelector.deps.json
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\menuSelector\bin\Debug\net7.0\menuSelector.runtimeconfig.json
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\menuSelector\bin\Debug\net7.0\menuSelector.dll
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\menuSelector\bin\Debug\net7.0\menuSelector.pdb
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\menuSelector\obj\Debug\net7.0\menuSelector.csproj.AssemblyReference.cache
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\menuSelector\obj\Debug\net7.0\menuSelector.GeneratedMSBuildEditorConfig.editorconfig
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\menuSelector\obj\Debug\net7.0\menuSelector.AssemblyInfoInputs.cache
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\menuSelector\obj\Debug\net7.0\menuSelector.AssemblyInfo.cs
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\menuSelector\obj\Debug\net7.0\menuSelector.csproj.CoreCompileInputs.cache
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\menuSelector\obj\Debug\net7.0\menuSelector.dll
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\menuSelector\obj\Debug\net7.0\refint\menuSelector.dll
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\menuSelector\obj\Debug\net7.0\menuSelector.pdb
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\menuSelector\obj\Debug\net7.0\menuSelector.genruntimeconfig.cache
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\menuSelector\obj\Debug\net7.0\ref\menuSelector.dll
