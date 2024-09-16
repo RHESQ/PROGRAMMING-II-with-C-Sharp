@@ -1,0 +1,11 @@
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment 6\loginInScreen\loginInScreen\bin\Debug\loginInScreen.exe.config
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment 6\loginInScreen\loginInScreen\bin\Debug\loginInScreen.exe
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment 6\loginInScreen\loginInScreen\bin\Debug\loginInScreen.pdb
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment 6\loginInScreen\loginInScreen\obj\Debug\loginInScreen.csproj.AssemblyReference.cache
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment 6\loginInScreen\loginInScreen\obj\Debug\loginInScreen.csproj.SuggestedBindingRedirects.cache
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment 6\loginInScreen\loginInScreen\obj\Debug\loginInScreen.Form1.resources
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment 6\loginInScreen\loginInScreen\obj\Debug\loginInScreen.Properties.Resources.resources
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment 6\loginInScreen\loginInScreen\obj\Debug\loginInScreen.csproj.GenerateResource.cache
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment 6\loginInScreen\loginInScreen\obj\Debug\loginInScreen.csproj.CoreCompileInputs.cache
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment 6\loginInScreen\loginInScreen\obj\Debug\loginInScreen.exe
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment 6\loginInScreen\loginInScreen\obj\Debug\loginInScreen.pdb
