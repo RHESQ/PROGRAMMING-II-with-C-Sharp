@@ -1,0 +1,15 @@
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment_2\Employee\bin\Debug\net7.0\Employee.exe
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment_2\Employee\bin\Debug\net7.0\Employee.deps.json
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment_2\Employee\bin\Debug\net7.0\Employee.runtimeconfig.json
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment_2\Employee\bin\Debug\net7.0\Employee.dll
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment_2\Employee\bin\Debug\net7.0\Employee.pdb
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment_2\Employee\obj\Debug\net7.0\Employee.csproj.AssemblyReference.cache
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment_2\Employee\obj\Debug\net7.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment_2\Employee\obj\Debug\net7.0\Employee.AssemblyInfoInputs.cache
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment_2\Employee\obj\Debug\net7.0\Employee.AssemblyInfo.cs
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment_2\Employee\obj\Debug\net7.0\Employee.csproj.CoreCompileInputs.cache
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment_2\Employee\obj\Debug\net7.0\Employee.dll
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment_2\Employee\obj\Debug\net7.0\refint\Employee.dll
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment_2\Employee\obj\Debug\net7.0\Employee.pdb
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment_2\Employee\obj\Debug\net7.0\Employee.genruntimeconfig.cache
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment_2\Employee\obj\Debug\net7.0\ref\Employee.dll

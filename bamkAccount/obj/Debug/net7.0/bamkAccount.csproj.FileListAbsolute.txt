@@ -1,0 +1,15 @@
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment_2\bamkAccount\obj\Debug\net7.0\bamkAccount.csproj.AssemblyReference.cache
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment_2\bamkAccount\obj\Debug\net7.0\bamkAccount.GeneratedMSBuildEditorConfig.editorconfig
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment_2\bamkAccount\obj\Debug\net7.0\bamkAccount.AssemblyInfoInputs.cache
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment_2\bamkAccount\obj\Debug\net7.0\bamkAccount.AssemblyInfo.cs
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment_2\bamkAccount\obj\Debug\net7.0\bamkAccount.csproj.CoreCompileInputs.cache
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment_2\bamkAccount\bin\Debug\net7.0\bamkAccount.exe
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment_2\bamkAccount\bin\Debug\net7.0\bamkAccount.deps.json
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment_2\bamkAccount\bin\Debug\net7.0\bamkAccount.runtimeconfig.json
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment_2\bamkAccount\bin\Debug\net7.0\bamkAccount.dll
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment_2\bamkAccount\bin\Debug\net7.0\bamkAccount.pdb
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment_2\bamkAccount\obj\Debug\net7.0\bamkAccount.dll
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment_2\bamkAccount\obj\Debug\net7.0\refint\bamkAccount.dll
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment_2\bamkAccount\obj\Debug\net7.0\bamkAccount.pdb
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment_2\bamkAccount\obj\Debug\net7.0\bamkAccount.genruntimeconfig.cache
+H:\UG\Academics\L300\SEM 2\Assignments\DCIT 318 PROGRAMMING II\Assignment_2\bamkAccount\obj\Debug\net7.0\ref\bamkAccount.dll
